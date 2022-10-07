@@ -3,7 +3,7 @@
 
 ## About me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Yuliya)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+beginner+IOSDeveloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Junior+IOSDeveloper)](https://git.io/typing-svg)
 
 ## Languages and Tools
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=swift)
