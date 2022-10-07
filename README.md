@@ -16,7 +16,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html)
 ## Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)
-![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)
-![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)
-![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Suharichek)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/suharrrrrr)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/julia.suhareva.79)
+[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/julkasuhareva)
