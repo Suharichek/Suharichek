@@ -1,6 +1,9 @@
 ![Header](https://github.com/Suharik-228/Suharik-228/blob/main/assets/dobro-pozhlovat-15.gif)
 
-## I'm begginer Swift developer.
+
+## About me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Yuliya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+beginner+IOSDeveloper)](https://git.io/typing-svg)
 
 ## Languages and Tools
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=swift)
@@ -22,4 +25,3 @@
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/julkasuhareva)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suharik-228&theme=merko&show_icons=true)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Suharik-228&repo=github-repo-card)
