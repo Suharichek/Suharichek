@@ -1,7 +1,8 @@
 ![Header](https://github.com/Suharik-228/Suharik-228/blob/main/assets/tenor.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+meet+you+here!+)](https://git.io/typing-svg)
 
 ## About me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+meet+you+here+!)](https://git.io/typing-svg)
+
 
 ```swift
 class Information {
