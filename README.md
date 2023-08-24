@@ -53,5 +53,3 @@ class Information {
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/julia.suhareva.79)
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/julkasuhareva)
 📫 Mail: s.y.007@mail.ru / Gmail: y.s.00750@gmail.com
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suharik-228&theme=merko&show_icons=true)
