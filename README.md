@@ -47,6 +47,13 @@ class Information {
 ![UIKit](https://img.shields.io/badge/-UIKit-black?style=for-the-badge&logo=uikit)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html) -->
+
+<div>
+<a href="https://codewars.com/users/Suharik-228"><img src="https://www.codewars.com/users/Suharik-228/badges/large" align="left"></img></a>
+<br>
+</div>
+<br>
+
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Suharichek)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/suharrrrrr)
