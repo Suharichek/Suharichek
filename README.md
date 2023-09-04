@@ -60,3 +60,6 @@ class Information {
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/julia.suhareva.79)
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/julkasuhareva)
 📫 Mail: s.y.007@mail.ru / Gmail: y.s.00750@gmail.com
+
+![](https://komarev.com/ghpvc/?username=Suharik-228&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/Suharik-228/Suharik-228?color=black&logo=github&style=flat-square)
