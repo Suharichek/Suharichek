@@ -8,7 +8,7 @@
 class Information {
 
     let name = Yulia Sukhareva
-    let age = 22
+    let age = 23
     let language = "Swift"
     
     var myTools: [String: [String]] = [
