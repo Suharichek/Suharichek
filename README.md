@@ -49,7 +49,7 @@ class Information {
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html) -->
 
 <div>
-<a href="https://codewars.com/users/Suharik-228"><img src="https://www.codewars.com/users/Suharik-228/badges/large" align="left"></img></a>
+<a href="https://codewars.com/users/Suharichek"><img src="https://www.codewars.com/users/Suharichek/badges/large" align="left"></img></a>
 <br>
 </div>
 <br>
