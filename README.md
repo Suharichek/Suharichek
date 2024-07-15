@@ -1,6 +1,6 @@
 ![Header](https://github.com/Suharik-228/Suharik-228/blob/main/assets/tenor.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+meet+you+here!+)](https://git.io/typing-svg)
-[![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## About me
 
 
@@ -54,6 +54,7 @@ class Information {
 </div>
 <br>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Suharichek)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/imsuharik)
