@@ -8,22 +8,20 @@
 ```swift
 class Information {
 
-    let name = Yulia Sukhareva
-    let age = 24
-    let language = "Swift"
-    
+    let name = "Yulia Sukhareva"
+    let birthYear = 2000
+
     var myTools: [String: [String]] = [
-        
-        "Principles":       ["OOP", "SOLID"]
-        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
-        "Dependensies":     ["CocoaPods", "SPM"]
-        "Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"]
-        "Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"]
-        "Multithreading":   ["GCD", "DQ's"]
-        "Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"]
-        "Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"]
-        "GUI":              ["Git", "GitHub"]
-        "Graphics":         ["Figma", "Photoshop"]
+        "📚 Principles":       ["OOP", "SOLID"],
+        "🎨 Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
+        "📦 Dependencies":     ["CocoaPods", "SPM"],
+        "💾 Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"],
+        "🌐 Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"],
+        "⚙️ Multithreading":    ["GCD", "DQ's"],
+        "🛠️ Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"],
+        "🔧 Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"],
+        "📂 GUI":              ["Git", "GitHub"],
+        "🎨 Graphics":         ["Figma", "Photoshop"]
     ]
     
     var otherTechnologies: [String] = [
@@ -33,7 +31,30 @@ class Information {
         "Multimedia (AVFoundation, Core Audio, AVKit)",
         "Core Animation"
     ]
+
+    var age: Int {
+        let currentYear = Calendar.current.component(.year, from: Date())
+        return currentYear - birthYear
+    }
+
+    var hobbies: [String] = ["Gaming", "Traveling", "Coding", "Fitness"]
+
+    func displayProfileInfo() -> String {
+        return """
+        Hi, I'm \(name), a passionate iOS developer with a strong focus on Swift and modern development practices.
+        I have experience working with frameworks such as UIKit, SwiftUI, and networking solutions like REST API and Firebase.
+        I enjoy solving problems and creating intuitive user interfaces.
+        """
+    }
+
+    func displayHobbies() {
+        print("My hobbies:")
+        for hobby in hobbies {
+            print("• \(hobby)")
+        }
+    }
 }
+
 ```
 <!-- ## Languages and Tools
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=swift)
