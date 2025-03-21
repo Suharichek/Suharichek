@@ -37,7 +37,7 @@ class Information {
         return currentYear - birthYear
     }
 
-    var hobbies: [String] = ["Gaming", "Traveling", "Coding", "Fitness"]
+    var hobbies: [String] = ["Gaming", "Traveling", "Coding", "Gym"]
 
     func displayProfileInfo() -> String {
         return """
