@@ -17,7 +17,7 @@ class Information {
         "📦 Dependencies":     ["CocoaPods", "SPM"],
         "💾 Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"],
         "🌐 Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"],
-        "⚙️ Multithreading":    ["GCD", "DQ's"],
+        "⚙️ Multithreading":   ["GCD", "DQ's"],
         "🛠️ Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"],
         "🔧 Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"],
         "📂 GUI":              ["Git", "GitHub"],
